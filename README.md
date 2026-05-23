@@ -8,6 +8,7 @@ sdk_version: "1.36.0"
 app_file: app.py
 pinned: false
 ---
+
 # Case 3 — Food Delivery Demand Pulse 🛵
 
 > **Live demo:** https://huggingface.co/spaces/Anubhav130/case3-demand-pulse
@@ -74,8 +75,9 @@ case3-demand-pulse/
 
 ## Screenshot
 
-*(Add a screenshot here after deploying)*
-
+<p align="center">
+  <img src="assets/dashboard.png" width="1000">
+</p>
 ---
 
 ## License
