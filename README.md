@@ -76,7 +76,21 @@ case3-demand-pulse/
 ## Screenshot
 
 <p align="center">
-  <img src="assets/dashboard.png" width="1000">
+  <img src="assets/dashboard.png" width="45%">
+  &nbsp;
+  <img src="assets/1.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="assets/2.png" width="45%">
+  &nbsp;
+  <img src="assets/3.1.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="assets/4.png" width="45%">
+  &nbsp;
+  <img src="assets/5.1.png" width="45%">
 </p>
 ---
 
