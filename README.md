@@ -1,13 +1,3 @@
----
-title: Case3 Demand Pulse
-emoji: ??
-colorFrom: orange
-colorTo: red
-sdk: streamlit
-sdk_version: "1.36.0"
-app_file: app.py
-pinned: false
----
 
 # Case 3 — Food Delivery Demand Pulse 🛵
 
