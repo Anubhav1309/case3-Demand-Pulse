@@ -10,7 +10,7 @@ pinned: false
 ---
 # Case 3 — Food Delivery Demand Pulse 🛵
 
-> **Live demo:** https://huggingface.co/spaces/YOUR_HF_USERNAME/case3-demand-pulse
+> **Live demo:** https://huggingface.co/spaces/Anubhav130/case3-demand-pulse
 
 Interactive dashboard for the Ops Head to explore food delivery demand patterns across 7 Indian cities and make data-backed surge pricing decisions.
 
