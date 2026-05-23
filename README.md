@@ -1,3 +1,13 @@
+---
+title: Case3 Demand Pulse
+emoji: ??
+colorFrom: orange
+colorTo: red
+sdk: streamlit
+sdk_version: "1.36.0"
+app_file: app.py
+pinned: false
+---
 # Case 3 — Food Delivery Demand Pulse 🛵
 
 > **Live demo:** https://huggingface.co/spaces/YOUR_HF_USERNAME/case3-demand-pulse
@@ -71,3 +81,4 @@ case3-demand-pulse/
 ## License
 
 MIT
+
