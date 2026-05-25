@@ -1,7 +1,7 @@
 
 # Case 3 — Food Delivery Demand Pulse 🛵
 
-> **Live demo:** https://huggingface.co/spaces/Anubhav130/case3-demand-pulse
+> **Live demo:** https://anubhav130-case3-demand-pulse.hf.space
 
 Interactive dashboard for the Ops Head to explore food delivery demand patterns across 7 Indian cities and make data-backed surge pricing decisions.
 
@@ -23,7 +23,7 @@ All filters are interactive — city, cuisine, hour range, date range, and surge
 ## Run Locally
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/case3-demand-pulse.git
+git clone https://github.com/Anubhav1309/case3-demand-pulse.git
 cd case3-demand-pulse
 
 python -m venv venv
